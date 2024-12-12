@@ -1,4 +1,4 @@
-Project Title- LifeSave Analyzing Sucide Clusters
+Project Title- LifeSave Analyzing Suicide Clusters
 
 Description: Suicide is a major public health concern, and its prevention requires understanding its underlying patterns, causes, and clusters. In India, suicide rates have been rising, 
 especially in certain regions, genders, and age groups. This project aims to analyze suicide data to identify clusters and hotspots, which will guide targeted intervention strategies. 
